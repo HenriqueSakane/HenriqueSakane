@@ -42,8 +42,6 @@ Atualmente estou trabalhando na *amigoTech* e nos meus próprios sistemas.
   </picture>
 </p>
 
-> Se a imagem aparecer quebrada antes de o workflow rodar com sucesso, veja a seção **Configuração & debug** abaixo.
-
 ---
 
 ## ✨ Um pouco mais sobre mim  
