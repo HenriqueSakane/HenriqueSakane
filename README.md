@@ -46,11 +46,6 @@ Atualmente estou trabalhando na *amigoTech* e nos meus próprios sistemas.
 
 ## ✨ Um pouco mais sobre mim  
 
-- 🔭 Atualmente trabalhando em **marketplace de produtos artesanais**  
+- 🔭 Atualmente trabalhando na amigoTech  
 - 🌱 Estudando **integrações de pagamento e mockups automatizados**  
 - 💡 Foco em **inovação, design e experiência do usuário**  
-- 🎯 Meta: **criar sistemas que unam tecnologia e criatividade**  
-
----
-
-⭐️ Feito com dedicação por [Henrique Sakane](https://github.com/henriquesakane)
