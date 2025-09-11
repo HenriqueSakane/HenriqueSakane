@@ -31,7 +31,7 @@ Atualmente estou trabalhando na *amigoTech* e nos meus próprios sistemas.
 
 ---
 
-## 🐍 Contribuições (jogo da cobrinha)
+## Contribuições
 
 <p align="center">
   <!-- dark / light support: o workflow gera duas variantes (dark + light) -->
