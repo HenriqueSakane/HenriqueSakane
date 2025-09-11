@@ -18,16 +18,12 @@ Atualmente estou trabalhando na *amigoTech* e nos meus próprios sistemas.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
----
-
 ## Estatísticas do GitHub  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquesakane&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquesakane&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## Contribuições
 
@@ -39,8 +35,6 @@ Atualmente estou trabalhando na *amigoTech* e nos meus próprios sistemas.
     <img alt="Snake animation (contribution graph)" src="https://raw.githubusercontent.com/henriquesakane/henriquesakane/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
 
 ## Um pouco mais sobre mim  
 
