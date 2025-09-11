@@ -6,11 +6,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://drive.google.com/file/d/1IIuabfpgZaXlgtUdyFtb3PIpGNeM9kAU/view?usp=sharing" alt="Imagem">
 </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/henriquesakane/henriquesakane/output/snake.svg" alt="Snake animation" />
 
 ###
