@@ -9,7 +9,7 @@ Me chamo Henrique Sakane, tenho 27 anos e moro atualmente em Recife PE. Sou Grad
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=link&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=link&logoColor=white"
         />
     </a>
 </p>
