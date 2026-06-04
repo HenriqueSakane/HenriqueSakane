@@ -122,6 +122,8 @@ Me chamo Henrique Sakane, tenho 27 anos e moro atualmente em Recife PE. Sou Grad
 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSakane&show_icons=true)
+
 <br/>
 <br/>
 
