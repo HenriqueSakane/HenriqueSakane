@@ -5,7 +5,7 @@
 Me chamo Henrique Sakane, tenho 27 anos e moro atualmente em Recife PE. Sou Graduado pela Universidade Federal de Pernambuco. Atualmente, estou fazeno Pós Graduação em TeachLead pela Cesar School.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.linkedin.com/in/henriquesakane/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
